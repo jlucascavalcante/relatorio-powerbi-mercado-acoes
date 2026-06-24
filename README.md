@@ -6,7 +6,7 @@ Dashboard de análise do mercado de ações com foco em volume negociado, varia�
 
 ## 📸 Preview do Dashboard
 
-![Preview do Dashboard](imagens/preview.png)
+![Preview do Dashboard](preview7.png)
 
 
 ## 🎯 Problema de negócio
