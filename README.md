@@ -4,6 +4,11 @@ Dashboard de análise do mercado de ações com foco em volume negociado, varia�
 
 ---
 
+## 📸 Preview do Dashboard
+
+![Preview do Dashboard](imagens/preview.png)
+
+
 ## 🎯 Problema de negócio
 
 Analistas e investidores precisam monitorar simultaneamente o comportamento de múltiplos ativos ao longo do tempo, identificando tendências de volume, variações de fechamento e padrões sazonais. Este dashboard centraliza essas dimensões para responder: quais empresas apresentaram maior variação de fechamento mês a mês? O volume negociado está em tendência de crescimento ou queda? E quais períodos concentraram as maiores oscilações?
